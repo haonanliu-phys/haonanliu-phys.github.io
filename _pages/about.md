@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 About Haonan.
+
+Template of external links [academicpages template](https://github.com/academicpages/academicpages.github.io)
