@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Haonan Liu"
 title_separator          : "-"
 name                     : &name "Haonan Liu"
-description              : &description "Research follow at CQT Singapore"
+description              : &description "Research fellow at CQT Singapore"
 url                      : https://haonanliu-phys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haonanliu-phys.github.io"
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -83,7 +83,7 @@ author:
   name             : "Haonan Liu"
   avatar           : "profile.jpg"
   bio              : "Research fellow on quantum optics"
-  location         : "Centre for Quantum Technologies, National University of Singapore, Singapore"
+  location         : "Centre for Quantum Technologies, Singapore"
   employer         : 
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WHo9LmAAAAAJ&hl=en&oi=sra"
