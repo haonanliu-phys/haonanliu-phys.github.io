@@ -14,9 +14,12 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-    
+
   - title: "中文版"
-    url: /cv/
+    url: /chinese/
+    
+#   - title: "cv"
+#     url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
