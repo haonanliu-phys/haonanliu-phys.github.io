@@ -1,10 +1,10 @@
 # main links links
 main:
-#   - title: "Publications"
-#     url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#   - title: "Talks"
-#     url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -18,8 +18,11 @@ main:
 #   - title: "中文版"
 #     url: /chinese_version/
     
-#   - title: "cv"
-#     url: /cv/
+  - title: "CV"
+    url: /cv/
     
+  - title: "My physics notes"
+    url: /notes/
+
 #   - title: "Guide"
 #     url: /markdown/
