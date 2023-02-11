@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haonan Liu"
   avatar           : "profile.jpg"
-  bio              : "Research fellow on quantum optics"
-  location         : "CQT, NUS, Singapore"
-  employer         : 
+  bio              : "Research fellow on quantum optics and quantum computing"
+  location         : "Centre for Quantum Technologies"
+  employer         : "National University of Singapore"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=WHo9LmAAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=kqwH9FAAAAAJ&hl=en&authuser=2"
   email            : "hliuphys@gmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
