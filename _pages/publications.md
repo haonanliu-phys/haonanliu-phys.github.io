@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /
 author_profile: true
 ---
 
-if author.googlescholar
+You can find my most recent articles on my [Google Scholar profile](https://scholar.google.com/citations?user=kqwH9FAAAAAJ&hl=en&authuser=2).
+
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-endif
+{% endif %}
 
 {% include base_path %}
 
