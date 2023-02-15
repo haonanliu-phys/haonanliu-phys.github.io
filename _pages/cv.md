@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most recent CV [here](/files/cv).
+You can find my most recent CV [here](http://haonanliu-phys.github.io//files/cv.pdf).
