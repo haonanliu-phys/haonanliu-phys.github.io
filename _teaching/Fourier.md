@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Fourier everything for physicists"
 collection: teaching
 type: "notes"
 permalink: /teaching/Fourier
