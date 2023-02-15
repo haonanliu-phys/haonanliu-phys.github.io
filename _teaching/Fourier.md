@@ -1,9 +1,9 @@
 ---
 title: "Fourier everything for physicists"
 collection: teaching
-type: "notes"
+type: "Notes"
 permalink: /teaching/Fourier
-venue: 
+venue: "CQT"
 date: 2023-02-14
 location: 
 ---
