@@ -1,20 +1,11 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "notes"
+permalink: /teaching/Fourier
+# venue: "University 1, Department"
+date: 2023-2
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is my personal [notes](http://haonanliu-phys.github.io//files/Fourier.pdf) on Fourier transform, Fourier series, etc. for physicists. Please let me know if you spot any errors.
