@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Differential Equations in 1 hour"
+title: "Stochastic differential equations in 1 hour"
 collection: teaching
 type: "Notes"
 permalink: /teaching/Ito
